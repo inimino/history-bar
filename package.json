@@ -1,6 +1,6 @@
 {
   "name": "history-bar",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "React component to render time series data (e.g. a revision history) as a horizontal SVG bar and allow clicking to select",
   "main": "index.min.js",
   "scripts": {
@@ -21,7 +21,8 @@
     "url": "https://github.com/inimino/history-bar/issues"
   },
   "homepage": "https://github.com/inimino/history-bar#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-minify": "^0.2.0"
   }
